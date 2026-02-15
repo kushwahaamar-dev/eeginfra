@@ -50,7 +50,7 @@ htmlcov/
 *.fif
 *.set
 *.mat
-data/
+/data/
 
 # Model checkpoints
 *.pth
